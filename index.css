@@ -1,0 +1,38 @@
+h1
+{
+    text-align: center;
+    color :#f45642;
+}
+p{
+    color:#ee42f4;
+    font-size: 20px;
+}
+h4
+{
+    color:#a6f441;
+    text-align: center;
+    
+}
+h2
+{
+    text-align: center;
+    color:#416bf4;
+}
+    img
+{ 
+padding : 20px 20% 20px 20%;
+margin :50px 50px 50px 50px;
+}
+h3
+{
+    text-align:left;
+    color:#f441a3;
+}
+li
+{
+color:#f48e41;
+}
+body ,div
+{
+    font-family: 'Gothic A1', sans-serif;
+}
