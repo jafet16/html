@@ -19,5 +19,8 @@ expected to use a set of common tags:
 * lists (ul, li)
 * images (img)
 * text formatting (b, i, sup, sub)
+*html forms
+*html graphics
+*html media and many more
 
 Use the following link to help you find the resources you need for this project: http://www.w3schools.com/html/default.asp
