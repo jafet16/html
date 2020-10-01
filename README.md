@@ -1,7 +1,7 @@
-csj-html-basic-markup
+CSS-HTML-Java Script-basic-markup
 =====================
 
-Welcome to the Basic Markup project from CSJ: Introduction to Web Development.
+Welcome to the Basic Markup project from Introduction to Web Development.
 
 In this project you will mark up a document based on the decision from
 Supreme Court Chief Justice Warren in the 1954 *Brown v. Board of Education*
@@ -19,5 +19,8 @@ expected to use a set of common tags:
 * lists (ul, li)
 * images (img)
 * text formatting (b, i, sup, sub)
+* styling using css
+* semantic tags (header,footer,nav,section,articlae etc)
+For some important semantic tags refer this website : https://www.wpkube.com/html5-cheat-sheet/
 
 Use the following link to help you find the resources you need for this project: http://www.w3schools.com/html/default.asp
