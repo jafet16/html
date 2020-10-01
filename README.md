@@ -1,7 +1,7 @@
-csj-html-basic-markup
+The csj-html-basic-markup
 =====================
 
-Welcome to the Basic Markup project from CSJ: Introduction to Web Development.
+Welcome to the full or proper Basic Markup project from CSJ: Introduction to Web Development.
 
 In this project you will mark up a document based on the decision from
 Supreme Court Chief Justice Warren in the 1954 *Brown v. Board of Education*
