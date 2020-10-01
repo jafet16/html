@@ -18,6 +18,6 @@ expected to use a set of common tags:
 * links (a)
 * lists (ul, li)
 * images (img)
-* text formatting (b, i, sup, sub)
+* text formatting (strong, em, sup, sub)
 
 Use the following link to help you find the resources you need for this project: http://www.w3schools.com/html/default.asp
