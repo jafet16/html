@@ -16,8 +16,9 @@ expected to use a set of common tags:
 * headings (h1...h6)
 * paragraphs (p)
 * links (a)
-* lists (ul, li)
+* lists (ul,ol, li)
 * images (img)
-* text formatting (b, i, sup, sub)
+* text formatting (b, i, sup, sub, strong, em)
+* tables ( tr, td)
 
 Use the following link to help you find the resources you need for this project: http://www.w3schools.com/html/default.asp
